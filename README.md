@@ -1,1 +1,1 @@
-https://github.com/Raselnishi/Altstore_App.git
+Altstore_App.git
